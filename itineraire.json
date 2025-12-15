@@ -1,0 +1,233 @@
+{
+  "pays": "Norvège (Svalbard)",
+  "drapeau": "🇳🇴",
+  "symbole": "🐻‍❄️",
+  "titre": "Aventure Arctique au Bout du Monde",
+  "budget_total": "3700€",
+  "duree": "6 jours",
+  "temps_vol": "Environ 7h avec escale depuis Paris, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sous le Cercle Polaire",
+      "legende": "Après un long voyage vers le Grand Nord, l'arrivée à Longyearbyen est une expérience en soi. Prenez le temps de vous installer et de vous imprégner de l'atmosphère unique de cette ville arctique, où la nature sauvage rencontre une petite communauté humaine résiliente. Une première balade légère vous permettra de découvrir les environs immédiats de votre hébergement et de vous acclimater au climat polaire.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🛬 <strong>Arrivée à Longyearbyen</strong>: Atterrissage à l'aéroport le plus septentrional du monde, suivi d'un transfert vers votre hôtel. Profitez des paysages lunaires dès la sortie de l'avion.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez possession de votre chambre et détendez-vous après le voyage. Les hôtels à Longyearbyen offrent un confort chaleureux face au froid extérieur.",
+        "🚶‍♂️ <strong>Première découverte du centre-ville</strong>: Une courte promenade autour de votre hôtel pour repérer les principaux points d'intérêt et sentir l'ambiance particulière de cette ville minière."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil d'arrivée",
+          "texte": "Le bus de l'aéroport est le moyen le plus simple et économique pour rejoindre le centre-ville. Il dessert la plupart des hôtels."
+        },
+        {
+          "symbole": "🌡️",
+          "titre": "Températures",
+          "texte": "Même au printemps, les températures peuvent être très basses. Prévoyez des couches de vêtements chauds dès votre arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Plongée dans l'histoire et la science",
+      "legende": "Cette journée est dédiée à la compréhension de l'histoire fascinante de Longyearbyen, de son passé minier à son rôle actuel en tant que centre de recherche arctique. Vous explorerez les expositions captivantes du musée local avant de découvrir l'emblématique \"Banque Mondiale de Graines\", un symbole d'espoir pour l'humanité. La journée se terminera par une immersion dans la culture locale.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🏛️ <strong>Visite du Musée de Svalbard</strong>: Explorez l'histoire naturelle et culturelle de l'archipel, de la faune arctique aux expéditions polaires et à l'héritage minier. Une excellente introduction à la région.",
+        "🌱 <strong>Découverte du \"Global Seed Vault\"</strong>: Admirez l'extérieur de cette arche de Noé végétale, un site emblématique qui abrite des millions de graines du monde entier, garantissant la biodiversité future. Les visites intérieures sont rares, mais l'extérieur est impressionnant.",
+        "🍽️ <strong>Dégustation de spécialités locales</strong>: Savourez un dîner dans un restaurant local proposant des plats à base de renne, de phoque ou de poisson arctique, pour une immersion culinaire authentique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "À pied",
+          "texte": "Le centre de Longyearbyen est compact et se prête bien à l'exploration à pied. Le musée est facilement accessible."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "N'oubliez pas votre appareil photo pour immortaliser le \"Global Seed Vault\" avec son architecture unique et son emplacement spectaculaire."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐕",
+      "titre": "Aventure en traîneau à chiens",
+      "legende": "Préparez-vous pour une expérience arctique inoubliable en vous lançant dans une expédition en traîneau à chiens. Guidé par des huskies enthousiastes, vous traverserez des paysages enneigés à couper le souffle, ressentant la puissance et la joie de ces animaux. C'est une immersion totale dans la nature sauvage du Svalbard, loin de l'agitation du monde.",
+      "lieu": "Longyearbyen et ses environs",
+      "activites": [
+        "🐕 <strong>Expédition en traîneau à chiens</strong>: Apprenez à diriger votre propre attelage de huskies à travers les vallées enneigées. C'est une activité emblématique qui offre une connexion unique avec la nature et les animaux.",
+        "☕ <strong>Pause réconfortante en pleine nature</strong>: Après l'effort, profitez d'une boisson chaude et de biscuits autour d'un feu de camp, partageant les récits de l'aventure avec vos guides et compagnons de voyage."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🧤",
+          "titre": "Équipement",
+          "texte": "Les opérateurs de traîneau à chiens fournissent généralement des combinaisons thermiques, des bottes et des gants. Portez vos propres couches chaudes en dessous."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Durée",
+          "texte": "Prévoyez une demi-journée pour cette activité, incluant les transferts, les instructions et l'expédition elle-même."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "❄️",
+      "titre": "Exploration des merveilles glacées",
+      "legende": "Aujourd'hui, l'aventure vous mène sous la surface gelée du Svalbard. Vous explorerez une grotte de glace naturelle, sculptée par les forces de la nature, offrant un spectacle de lumières et de formes éphémères. Cette expérience unique vous révélera la beauté cachée de l'Arctique et la puissance des glaciers. L'après-midi sera plus calme, propice à la détente ou à la recherche de souvenirs.",
+      "lieu": "Longyearbyen et glacier",
+      "activites": [
+        "🧊 <strong>Visite d'une grotte de glace</strong>: Accompagné d'un guide, aventurez-vous dans les entrailles d'un glacier pour découvrir des formations de glace bleutées et des sculptures naturelles. Une expérience magique et rafraîchissante.",
+        "🛍️ <strong>Shopping de souvenirs arctiques</strong>: Flânez dans les boutiques de Longyearbyen pour trouver des articles artisanaux locaux, des vêtements en laine ou des objets inspirés de la faune polaire. Idéal pour rapporter un souvenir unique."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures",
+          "texte": "Des chaussures de marche robustes et imperméables sont essentielles pour la grotte de glace. Des crampons sont souvent fournis par les guides."
+        },
+        {
+          "symbole": "⚠️",
+          "titre": "Sécurité",
+          "texte": "Les visites de grottes de glace sont toujours encadrées par des guides expérimentés pour votre sécurité."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏔️",
+      "titre": "Panoramas arctiques et culture minière",
+      "legende": "Cette journée combine l'exploration de paysages grandioses avec une immersion dans le passé minier du Svalbard. Une excursion en motoneige vous mènera à des points de vue spectaculaires, offrant des panoramas infinis sur les montagnes et les fjords gelés. L'après-midi, une visite d'une ancienne mine vous plongera dans les conditions de vie et de travail des mineurs, témoignant de l'histoire humaine dans cet environnement extrême.",
+      "lieu": "Longyearbyen et ses environs",
+      "activites": [
+        "🏍️ <strong>Excursion en motoneige vers un point de vue panoramique</strong>: Partez à l'aventure sur les vastes étendues enneigées, atteignant des sommets offrant des vues imprenables sur les paysages arctiques. Une montée d'adrénaline garantie.",
+        "⛏️ <strong>Visite d'une ancienne mine de charbon</strong>: Explorez les galeries d'une mine historique pour comprendre l'importance de l'exploitation du charbon pour le développement de Longyearbyen. Un aperçu poignant de la vie des mineurs."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🔞",
+          "titre": "Permis de conduire",
+          "texte": "Un permis de conduire valide est requis pour piloter une motoneige. Les passagers n'en ont pas besoin."
+        },
+        {
+          "symbole": "🥶",
+          "titre": "Froid",
+          "texte": "Les excursions en motoneige peuvent être très froides. Des combinaisons thermiques complètes sont fournies et indispensables."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛫",
+      "titre": "Derniers instants arctiques et départ",
+      "legende": "Profitez de vos dernières heures à Longyearbyen pour une ultime balade, un café chaud ou l'achat de quelques souvenirs de dernière minute. C'est le moment de revoir les paysages qui vous ont tant marqué et de vous remémorer les aventures vécues. Le transfert vers l'aéroport marquera la fin de cette incroyable expédition arctique, avec des souvenirs gravés à jamais.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "☕ <strong>Petit-déjeuner et derniers achats</strong>: Savourez un dernier petit-déjeuner local et profitez-en pour acheter les derniers souvenirs ou cartes postales. Les boutiques ouvrent généralement tôt.",
+        "🚶‍♀️ <strong>Balade libre ou visite d'une galerie d'art</strong>: Selon l'heure de votre vol, vous pouvez faire une dernière promenade ou visiter une des petites galeries d'art locales présentant des œuvres inspirées de l'Arctique.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour</strong>: Départ de Longyearbyen, emportant avec vous des souvenirs inoubliables de cette terre unique au-delà du cercle polaire."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Vérifiez bien les horaires de votre vol retour et prévoyez suffisamment de temps pour le transfert à l'aéroport."
+        },
+        {
+          "symbole": "📦",
+          "titre": "Bagages",
+          "texte": "Assurez-vous que tous vos souvenirs sont bien emballés et que votre équipement de froid est prêt pour le voyage."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "800€/pers (Vol A/R Paris-Longyearbyen avec escale, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Navettes aéroport, transports locaux pour activités)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "500€/pers (6 jours, repas moyens, sans boissons alcoolisées)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1000€/pers (5 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "1350€/pers (Traîneau à chiens, motoneige, grotte de glace, musée, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Mars et Avril.",
+      "symbole": "❄️"
+    },
+    {
+      "titre": "Ces mois offrent un bon équilibre entre les activités hivernales et l'augmentation de la lumière du jour, avec des chances d'observer les aurores boréales en début de période.",
+      "symbole": "🌌"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Population: Environ 2500 habitants, mais plus de 3000 ours polaires dans l'archipel. Il est interdit de sortir de la ville sans arme ou guide armé.",
+      "symbole": "🐻‍❄️"
+    },
+    {
+      "titre": "Pays: Le Svalbard est un archipel norvégien, mais il a un statut spécial en vertu du Traité du Svalbard. Il n'y a pas de visa requis pour les citoyens de nombreux pays.",
+      "symbole": "🇳🇴"
+    },
+    {
+      "titre": "Insolite: Il est illégal de mourir à Longyearbyen. Le permafrost empêche les corps de se décomposer, et les cimetières ont cessé d'accepter de nouvelles inhumations il y a 70 ans.",
+      "symbole": "💀"
+    },
+    {
+      "titre": "Insolite: Les chats sont interdits sur l'archipel pour protéger la faune locale, en particulier les oiseaux.",
+      "symbole": "🚫"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles et activités",
+      "titre": "Visit Svalbard",
+      "url": "https://www.visitsvalbard.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo locales",
+      "titre": "Yr.no (Météo Norvégienne)",
+      "url": "https://www.yr.no/en/forecast/daily-table/1-2000000/Norway/Svalbard/Longyearbyen",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Vols vers Longyearbyen",
+      "titre": "SAS - Scandinavian Airlines",
+      "url": "https://www.flysas.com/fr-fr/destinations/longyearbyen/",
+      "symbole": "✈️"
+    }
+  ]
+}
